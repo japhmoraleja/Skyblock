@@ -1,12 +1,14 @@
-hello!
-
 # Skyblock
+
+Welcome to our Minecraft Server! This server is running on Minecraft v1.20.1 with Fabric as the mod loader. In this server, Java and Bedrock players can cross-play together with the use of GeyserMC and Floodgate.
 
 ## Main Guide
 
 ### Installing Prism Launcher
 
-Prism Launcher is on Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+Prism Launcher is the recommended launcher to be used. You may use [this version of prism Launcher](https://github.com/Diegiwg/PrismLauncher-Cracked) if you have cracked MC. 
+--or--
+You may use the vanilla MC launcher and put the mods into the mod folder yourself.  
 
 ![Prism Launcher](./img/prism1.png)
 
@@ -18,11 +20,23 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 4. Use version 1.20.1
 ![prism3](./img/prism3.png)
 5. Set the mod loader to Fabric
-![prism4](./img/prism4.png)
-6. Click Edit
-![prism5](./img/prism5.png)
+![prism4](./img/prism4.png)  
+6. Click Edit  
+![prism5](./img/prism5.png)  
+
+### Connecting to the server
+The server link will be sent to you privately.   
+[For Java]  
+1. Place the server URL into the Server Address field.
+2. Click Done and play.  
+  
+[For mobile/bedrock]
+1. Place the IP address (not the URL) into the server field and use port `5881`.
+-------------------------------------------
 
 
+## Optional Mods
+1. [BedrockIfy](https://modrinth.com/mod/bedrockify) - BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
 If you are using bedrockify
 Set the following settings:  
 [Required]
@@ -34,7 +48,11 @@ Set the following settings:
 - HUD Opacity: `Value: 100`
 
 ![bedrockify](./img/bedrockify.png)
-## Optimization Mods
+2. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+3. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
+
+## Required Optimization Mods
+### _Do not disable these_
 
 1. [Fabric API](https://modrinth.com/mod/fabric-api)
 2. [Sodium](https://modrinth.com/mod/sodium)
@@ -67,18 +85,14 @@ Set the following settings:
 28. [Trinkets](https://modrinth.com/mod/trinkets)
 
 ## UI
-
 1. [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) - A working voice chat in Minecraft!
 2. [Eating Animation](https://modrinth.com/mod/eating-animation)A mod that adds sprite animations for edible and drinkable items.
 3. [BetterF3](https://modrinth.com/mod/betterf3) - A mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
 4. [AppleSkin](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 5. [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount
-6. [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric
-) - Adds a configurable numerical ping display to the player list
-7. [BedrockIfy](https://modrinth.com/mod/bedrockify) - BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
+6. [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
 8. [Not Enough Animations]() - Bringing first-person animations to the third-person
-9. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
-10. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
+
 
 
 ## Ambiance

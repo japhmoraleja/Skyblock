@@ -34,7 +34,11 @@ Since this is a public githubrepo, the server link will be sent to you privately
 [For mobile/bedrock]
 1. Place the IP address (not the URL) into the server field and use port `5881`.
     
-  
+
+### Downloading the mods
+You can download the whole git zip archive and then place the mods into the mods folder.
+![git](./img/git1.png)
+![mods](./img/mods.gif)
 ### Seed
 8764718009920
 

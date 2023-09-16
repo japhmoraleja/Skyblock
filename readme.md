@@ -32,80 +32,29 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 13. [Lithium](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
 14. [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - A mod that fixes random memory leaks for both the client and server
 15. [More Culling](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
-
-
-Carpet-Fixes
-The carpet extension to fix all vanilla minecraft bugs
-https://modrinth.com/mod/carpet-fixes
-
-Blanket
-Minecraft Client-fixes/tweaks
-https://modrinth.com/mod/blanket
-
-FX's Rail Optimization
-A simple mod that makes powered/activator rails turning on/off up to 4x faste
-https://modrinth.com/mod/rail-optimization
-
-Inventory Profiles Next
-Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
-https://modrinth.com/mod/inventory-profiles-next
-
-Krypton
-A mod to optimize the Minecraft networking stack
-https://modrinth.com/mod/krypton
-
-ImmediatelyFast
-Speed up immediate mode rendering in Minecraft
-https://modrinth.com/mod/immediatelyfast
-
-Concurrent Chunk Management Engine (Fabric)
-A Fabric mod designed to improve the chunk performance of Minecraft.
-https://modrinth.com/mod/c2me-fabric
-
-Architectury API
-An intermediary api aimed to ease developing multiplatform mods.
-https://modrinth.com/mod/architectury-api
-
-RightClickHarvest
-Allows you to harvest crops by right clicking
-https://modrinth.com/mod/rightclickharvest
+16. [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) - The carpet extension to fix all vanilla minecraft bugs
+17. [Blanket](https://modrinth.com/mod/blanket) - Minecraft Client-fixes/tweaks
+18. [FX's Rail Optimization](https://modrinth.com/mod/rail-optimization) - A simple mod that makes powered/activator rails turning on/off up to 4x faste
+19. [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) - Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
+20. [Krypton](https://modrinth.com/mod/krypton) - A mod to optimize the Minecraft networking stack
+21. [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
+22. [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
+23. [Architectury API](https://modrinth.com/mod/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
+24. [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) - Allows you to harvest crops by right clicking
 
 ## UI
 
-Simple Voice Chat
-A working voice chat in Minecraft!
-https://modrinth.com/plugin/simple-voice-chat
+1. [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) - A working voice chat in Minecraft!
+2. [Eating Animation](https://modrinth.com/mod/eating-animation)A mod that adds sprite animations for edible and drinkable items.
+3. [BetterF3](https://modrinth.com/mod/betterf3) - A mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
+4. [AppleSkin](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
+5. [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount
+6. [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric
+) - Adds a configurable numerical ping display to the player list
+7. [BedrockIfy](https://modrinth.com/mod/bedrockify) - BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
+8. [Not Enough Animations]() - Bringing first-person animations to the third-person
+9. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
 
-Eating Animation
-A mod that adds sprite animations for edible and drinkable items.
-https://modrinth.com/mod/eating-animation
-
-BetterF3
-BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
-https://modrinth.com/mod/betterf3
-
-AppleSkin
-Food/hunger-related HUD improvements
-https://modrinth.com/mod/appleskin
-
-Better Mount HUD
-Improves the ingame HUD while riding a mount
-https://modrinth.com/mod/better-mount-hud
-
-Better Ping Display [Fabric]
-Adds a configurable numerical ping display to the player list
-https://modrinth.com/mod/better-ping-display-fabric
-
-BedrockIfy
-BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
-https://modrinth.com/mod/bedrockify
-
-Not Enough Animations
-Bringing first-person animations to the third-person
-
-Xaero's Minimap
-Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
-https://modrinth.com/mod/xaeros-minimap
 
 Xaero's World Map
 Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.

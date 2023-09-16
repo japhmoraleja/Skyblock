@@ -23,7 +23,7 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 
 
 If you are using bedrockify
-Set the following settings:
+Set the following settings:  
 [Required]
 - Show Coordinates: `No`
 - Show Paper Doll: `No`

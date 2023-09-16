@@ -32,6 +32,10 @@ The server link will be sent to you privately.
   
 [For mobile/bedrock]
 1. Place the IP address (not the URL) into the server field and use port `5881`.
+    
+  
+
+  
 -------------------------------------------
 
 

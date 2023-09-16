@@ -1,0 +1,10 @@
+### Tab menu
+Command: `/tabtps toggle tab`
+![tabtps](https://i.imgur.com/93NmuUA.png)
+
+### Action bar
+Command: `/tabtps toggle actionbar`
+![tabtps](https://i.imgur.com/aMzzNRR.png)
+
+### Ping
+Commands: `/ping`, `/ping [username]`, or `/pingall`

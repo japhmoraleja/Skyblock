@@ -13,7 +13,26 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 1. Install Prism Launcher
    ![Prism Launcher](./img/prism2.png)
 2. Download and install Java JDK 17 from [Adoptium](https://adoptium.net/temurin/releases/)
+3. Follow [this guide](https://www.youtube.com/watch?v=CA2fdUzChCo) on how to set it up
+4. Use version 1.20.1
+![prism3](./img/prism3.png)
+5. Set the mod loader to Fabric
+![prism4](./img/prism4.png)
+6. Click Edit
+![prism5](./img/prism5.png)
 
+
+If you are using bedrockify
+Set the following settings:
+[Required]
+- Show Coordinates: `No`
+- Show Paper Doll: `No`
+
+[Optional]
+- Transparent Hotbar: `No`
+- HUD Opacity: `Value: 100`
+
+![bedrockify](./img/bedrockify.png)
 ## Optimization Mods
 
 1. [Fabric API](https://modrinth.com/mod/fabric-api)
@@ -41,6 +60,10 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 22. [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
 23. [Architectury API](https://modrinth.com/mod/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
 24. [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) - Allows you to harvest crops by right clicking
+25. [libIPN](https://modrinth.com/mod/libipn) - Inventory Profiles Next GUI/Config library
+26. [CreativeCore](https://modrinth.com/mod/creativecore)
+27. [Iceberg](https://modrinth.com/mod/iceberg)
+28. [Trinkets](https://modrinth.com/mod/trinkets)
 
 ## UI
 
@@ -54,11 +77,8 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 7. [BedrockIfy](https://modrinth.com/mod/bedrockify) - BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
 8. [Not Enough Animations]() - Bringing first-person animations to the third-person
 9. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+10. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
 
-
-Xaero's World Map
-Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
-https://modrinth.com/mod/xaeros-world-map
 
 ## Ambiance
 
@@ -128,7 +148,7 @@ Simply Swords
 Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!
 https://modrinth.com/mod/simply-swords
 
-Optional
+## Optional
 Craftify
 Allows for you to control and display your music in-game!
 https://modrinth.com/mod/craftify
@@ -151,7 +171,7 @@ Falling Leaves
 Adds a neat little particle effect to leaf blocks
 https://modrinth.com/mod/fallingleaves
 
-Server Side
+## Server Side 
 SleepWarp
 Accelerates time when sleeping instead of skipping directly to day.
 https://modrinth.com/mod/sleep-warp
@@ -177,3 +197,7 @@ https://modrinth.com/mod/when-dungeons-arise
 
 Chunky
 Pre-generates chunks, quickly and efficiently
+
+TabTPS
+https://modrinth.com/plugin/tabtps
+Monitor your server's performance in the tab menu, boss bar, and action bar

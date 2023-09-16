@@ -11,57 +11,28 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 ![Prism Launcher](./img/prism1.png)
 
 1. Install Prism Launcher
-![Prism Launcher](./img/prism2.png)
+   ![Prism Launcher](./img/prism2.png)
 2. Download and install Java JDK 17 from [Adoptium](https://adoptium.net/temurin/releases/)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Optimization Mods
+
 1. [Fabric API](https://modrinth.com/mod/fabric-api)
 2. [Sodium](https://modrinth.com/mod/sodium)
 3. [Sodium Extra](https://modrinth.com/mod/sodium-extra) - Features that shouldn't be in Sodium.
 4. [Iris Shaders](https://modrinth.com/mod/iris)
 5. [Shader List](https://modrinth.com/shaders)
 6. [Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
-7. [Continuity](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures  
-_dependencies: Indium, Sodium_
-Fabric Language Kotlin
-https://modrinth.com/mod/fabric-language-kotlin
+7. [Continuity](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures
+   _dependencies: Indium, Sodium_
+8. [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+9. [Mod Menu](https://modrinth.com/mod/modmenu)
+10. [Cloth Config API](https://modrinth.com/mod/cloth-config)
+11. [Entity Culling](https://modrinth.com/mod/entityculling)
+12. [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
+13. [Lithium](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
+14. [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - A mod that fixes random memory leaks for both the client and server
+15. [More Culling](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
 
-Mod Menu
-https://modrinth.com/mod/modmenu
-
-Cloth Config API
-https://modrinth.com/mod/cloth-config
-
-Entity Culling
-https://modrinth.com/mod/entityculling
-
-FerriteCore
-Memory usage optimizations
-https://modrinth.com/mod/ferrite-core
-
-Lithium
-No-compromises game logic/server optimization mod
-https://modrinth.com/mod/lithium
-
-Memory Leak Fix
-A mod that fixes random memory leaks for both the client and server
-https://modrinth.com/mod/memoryleakfix
-
-More Culling
-A mod that changes how multiple types of culling are handled in order to improve performance
-https://modrinth.com/mod/moreculling
 
 Carpet-Fixes
 The carpet extension to fix all vanilla minecraft bugs
@@ -98,8 +69,6 @@ https://modrinth.com/mod/architectury-api
 RightClickHarvest
 Allows you to harvest crops by right clicking
 https://modrinth.com/mod/rightclickharvest
-
-
 
 ## UI
 
@@ -142,16 +111,14 @@ Xaero's World Map
 Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
 https://modrinth.com/mod/xaeros-world-map
 
-
-
 ## Ambiance
+
 Presence Footsteps
 An Overly complicated Sound Mod
 https://modrinth.com/mod/presence-footsteps
 
-
-
 ## Gameplay
+
 Better Combat
 Easy, spectacular and fun melee combat system from Minecraft Dungeons.
 https://modrinth.com/mod/better-combat
@@ -228,25 +195,17 @@ https://modrinth.com/mod/charmonium
 AmbientSounds
 #listentonature
 https://modrinth.com/mod/ambientsounds
-    Use /cmdclientconfig to access the config menu
-    Use /ambient-debug to see which sounds are playing
+Use /cmdclientconfig to access the config menu
+Use /ambient-debug to see which sounds are playing
 
 Falling Leaves
 Adds a neat little particle effect to leaf blocks
 https://modrinth.com/mod/fallingleaves
 
-
-
-
-
-
-
-
 Server Side
 SleepWarp
 Accelerates time when sleeping instead of skipping directly to day.
 https://modrinth.com/mod/sleep-warp
-
 
 /gamerule playersSleepingPercentage <value>
 
@@ -269,4 +228,3 @@ https://modrinth.com/mod/when-dungeons-arise
 
 Chunky
 Pre-generates chunks, quickly and efficiently
-

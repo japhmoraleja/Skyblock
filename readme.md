@@ -8,10 +8,11 @@ hello!
 
 Prism Launcher is on Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
 
-![Prism Launcher](./img/prism1.webp)
+![Prism Launcher](./img/prism1.png)
 
-
-
+1. Install Prism Launcher
+![Prism Launcher](./img/prism2.png)
+2. Download and install Java JDK 17 from [Adoptium](https://adoptium.net/temurin/releases/)
 
 
 
@@ -26,15 +27,11 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 
 
 ## Optimization Mods
-Fabric API
-https://modrinth.com/mod/fabric-api
-
-Sodium
-https://modrinth.com/mod/sodium
-
-Sodium Extra
+1. [Fabric API](https://modrinth.com/mod/fabric-api)
+2. [Sodium](https://modrinth.com/mod/sodium)
+3. [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 Features that shouldn't be in Sodium.
-https://modrinth.com/mod/sodium-extra
+
 
 Iris Shaders
 https://modrinth.com/mod/iris

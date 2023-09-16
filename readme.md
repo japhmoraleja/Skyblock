@@ -14,7 +14,9 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
    ![Prism Launcher](./img/prism2.png)
 2. Download and install Java JDK 17 from [Adoptium](https://adoptium.net/temurin/releases/)
 3. Follow [this guide](https://www.youtube.com/watch?v=CA2fdUzChCo) on how to set it up
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CA2fdUzChCo?si=7tGsc10kJwpszxf2&amp;start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 4. Use version 1.20.1
 ![prism3](./img/prism3.png)
 5. Set the mod loader to Fabric

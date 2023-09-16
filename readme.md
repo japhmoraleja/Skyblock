@@ -1,5 +1,30 @@
 hello!
 
+# Skyblock
+
+## Main Guide
+
+### Installing Prism Launcher
+
+Prism Launcher is on Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+
+![Prism Launcher](./img/prism1.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Optimization Mods
 Fabric API
 https://modrinth.com/mod/fabric-api
@@ -13,9 +38,9 @@ https://modrinth.com/mod/sodium-extra
 
 Iris Shaders
 https://modrinth.com/mod/iris
-|
-↳   Shaders
-    https://modrinth.com/shaders
+
+Shaders
+https://modrinth.com/shaders
 
 Indium
 Sodium addon providing support for the Fabric Rendering API, based on Indigo
@@ -118,6 +143,21 @@ Better Ping Display [Fabric]
 Adds a configurable numerical ping display to the player list
 https://modrinth.com/mod/better-ping-display-fabric
 
+BedrockIfy
+BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
+https://modrinth.com/mod/bedrockify
+
+Not Enough Animations
+Bringing first-person animations to the third-person
+
+Xaero's Minimap
+Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+https://modrinth.com/mod/xaeros-minimap
+
+Xaero's World Map
+Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
+https://modrinth.com/mod/xaeros-world-map
+
 
 
 ## Ambiance
@@ -184,12 +224,9 @@ Spell Engine
 Data driven magic library
 https://modrinth.com/mod/spell-engine
 
-
-
 Simply Swords
-
-
-
+Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!
+https://modrinth.com/mod/simply-swords
 
 Optional
 Craftify

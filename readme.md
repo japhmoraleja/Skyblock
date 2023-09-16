@@ -13,29 +13,31 @@ You may use the vanilla MC launcher and put the mods into the mod folder yoursel
 ![Prism Launcher](./img/prism1.png)
 
 1. Install Prism Launcher
-   ![Prism Launcher](./img/prism2.png)
-2. Download and install Java JDK 17 from [Adoptium](https://adoptium.net/temurin/releases/)
+   ![Prism Launcher](./img/prism2.png)  
+2. Download and install Java JDK 17 from [Adoptium](https://adoptium.net/temurin/releases/)  
 3. Follow [this guide](https://www.youtube.com/watch?v=CA2fdUzChCo) on how to set it up
-[![install](./img/installprism.png)](https://www.youtube.com/watch?v=CA2fdUzChCo)
+[![install](./img/installprism.png)](https://www.youtube.com/watch?v=CA2fdUzChCo)  
 4. Use version 1.20.1
-![prism3](./img/prism3.png)
+![prism3](./img/prism3.png)  
 5. Set the mod loader to Fabric
-![prism4](./img/prism4.png)  
+![prism4](./img/prism4.png)    
 6. Click Edit  
 ![prism5](./img/prism5.png)  
 
 ### Connecting to the server
-The server link will be sent to you privately.   
+Since this is a public githubrepo, the server link will be sent to you privately. 
 [For Java]  
-1. Place the server URL into the Server Address field.
-2. Click Done and play.  
+1. Click Add Server
+2. Place the server URL into the Server Address field.
+3. Click Done and play.  
   
 [For mobile/bedrock]
 1. Place the IP address (not the URL) into the server field and use port `5881`.
     
   
+### Seed
+8764718009920
 
-  
 -------------------------------------------
 
 
@@ -53,6 +55,9 @@ Set the following settings:
 
 ![bedrockify](./img/bedrockify.png)
 2. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+
+You can turn this off if you want a more immersive experience. Just go into the Mods button in the pause screen.
+
 3. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
 
 ## Required Optimization Mods

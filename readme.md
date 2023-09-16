@@ -18,7 +18,7 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CA2fdUzChCo?si=7tGsc10kJwpszxf2&amp;start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 <a href="https://www.youtube.com/embed/CA2fdUzChCo?si=7tGsc10kJwpszxf2&amp;start=40" target="_blank">
- <img src="http://img.youtube.com/vi/CA2fdUzChCo/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/CA2fdUzChCo/mqdefault.jpg" alt="Watch the video" width=800" height="480" border="10" />
 </a>
 
 4. Use version 1.20.1

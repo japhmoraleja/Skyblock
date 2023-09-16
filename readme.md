@@ -29,25 +29,12 @@ Prism Launcher is on Open Source Minecraft launcher with the ability to manage m
 ## Optimization Mods
 1. [Fabric API](https://modrinth.com/mod/fabric-api)
 2. [Sodium](https://modrinth.com/mod/sodium)
-3. [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-Features that shouldn't be in Sodium.
-
-
-Iris Shaders
-https://modrinth.com/mod/iris
-
-Shaders
-https://modrinth.com/shaders
-
-Indium
-Sodium addon providing support for the Fabric Rendering API, based on Indigo
-https://modrinth.com/mod/indium
-
-Continuity
-A Fabric mod that allows for efficient connected textures
-dep: Indium, Sodium
-https://modrinth.com/mod/continuity
-
+3. [Sodium Extra](https://modrinth.com/mod/sodium-extra) - Features that shouldn't be in Sodium.
+4. [Iris Shaders](https://modrinth.com/mod/iris)
+5. [Shader List](https://modrinth.com/shaders)
+6. [Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
+7. [Continuity](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures  
+_dependencies: Indium, Sodium_
 Fabric Language Kotlin
 https://modrinth.com/mod/fabric-language-kotlin
 

@@ -1,6 +1,17 @@
 # Skyblock
 
-Welcome to our Minecraft Server! This server is running on Minecraft v1.20.1 with Fabric as the mod loader. In this server, Java and Bedrock players can cross-play together with the use of GeyserMC and Floodgate.
+Welcome to our Minecraft Server! This server is running on Minecraft v1.20.1 with Fabric as the mod loader. In this server, Java and Bedrock players can cross-play together with the use of GeyserMC and Floodgate.  
+  
+The current version is v1.02 (18 Sep 2023).
+
+## Changelog
+09-18-2023 - v1.02
+- Decreased cooldown of roll from `4.0` to `3.2`
+- Changed minimap from PVP-safe profile (cannot see other players) to PVE profile
+- Added proximity voice chat basic functionality
+- Created backup of v1.01  
+
+---------------------------------
 
 ## Main Guide
 

@@ -240,3 +240,11 @@ Pre-generates chunks, quickly and efficiently
 TabTPS
 https://modrinth.com/plugin/tabtps
 Monitor your server's performance in the tab menu, boss bar, and action bar
+
+
+New mods 09/18/2023
+https://modrinth.com/mod/elytra-slot
+https://modrinth.com/mod/labelling-containers/gallery
+https://modrinth.com/mod/mimic
+https://modrinth.com/mod/addadd
+https://modrinth.com/mod/farmers-delight-fabric
